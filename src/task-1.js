@@ -3,7 +3,7 @@
 // fishes: salmon, pike, carp, crucian, shark, tuna
 // mammalia: dog, cat, whale, horse, human
 
-let creature = '';
+let creature = 'salmon';
 switch (creature){
   case 'sparrow':
   case 'hawk':
